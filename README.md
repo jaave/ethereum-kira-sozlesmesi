@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏢 Ethereum Kira Sözleşmesi Sistemi
 
 Bu proje, Ethereum blockchain üzerinde çalışan akıllı sözleşme tabanlı bir kira yönetim sistemidir. Sepolia test ağı üzerinde geliştirilmiştir.
@@ -147,3 +148,6 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 Proje Sahibi - [@kullanici-adi](https://github.com/kullanici-adi)
 
 Proje Linki: [https://github.com/kullanici-adi/ethereum-kira-sozlesmesi](https://github.com/kullanici-adi/ethereum-kira-sozlesmesi) 
+=======
+# ethereum-kira-sozlesmesi
+>>>>>>> cd8279c86c3630d994e340622566330eebb8efbf
